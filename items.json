@@ -90,13 +90,13 @@
     "rarity": "Common"
   },
   {
-    "image_url": "https://github.com/Wafflehousedev/TradingHub/blob/main/images/Tomato%20Seed.png?raw=true",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Tomato%20Grown.png",
     "name": "Tomato",
     "rarity": "Rare"
   },
   {
-    "image_url": "https://github.com/Wafflehousedev/TradingHub/blob/main/images/Watermelon%20Grown.png?raw=true",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Watermelon%20Grown.png",
     "name": "Watermelon",
     "rarity": "Legendary"
-  },
+  }
 ]
