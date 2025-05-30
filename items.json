@@ -103,5 +103,35 @@
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Candy%20Blossom%20Grown.png",
     "name": "Candy Blossom",
     "rarity": "Divine"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Glowshroom.png",
+    "name": "Glowshroom",
+    "rarity": "Rare"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mint.png",
+    "name": "Mint",
+    "rarity": "Rare"
+  },
+   {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moonflower.png",
+    "name": "Moonflower",
+    "rarity": "Legendary"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Starfruit.png",
+    "name": "Starfruit",
+    "rarity": "Legendary"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moonglow.png",
+    "name": "Moonglow",
+    "rarity": "Mythical"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moon%20Blossom.png",
+    "name": "Moon Blossom",
+    "rarity": "Divine"
   }
 ]
