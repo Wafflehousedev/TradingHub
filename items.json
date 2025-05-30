@@ -1,92 +1,102 @@
 [
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Apple%20Grown.png?raw=true",
-    "name": "Apple Grown",
-    "rarity": "common"
+    "name": "Apple",
+    "rarity": "Legendary"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Bamboo%20Grown.png?raw=true",
-    "name": "Bamboo Grown",
-    "rarity": "common"
+    "name": "Bamboo",
+    "rarity": "Legendary"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Beanstalk%20Grown.png?raw=true",
-    "name": "Beanstalk Grown",
-    "rarity": "common"
+    "name": "Beanstalk",
+    "rarity": "Prismatic"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Blueberry%20Grown.png?raw=true",
-    "name": "Blueberry Grown",
-    "rarity": "common"
+    "name": "Blueberry",
+    "rarity": "Uncommon"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Cacao%20Grown.png?raw=true",
-    "name": "Cacao Grown",
-    "rarity": "common"
+    "name": "Cacao",
+    "rarity": "Divine"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Cactus%20Grown.png?raw=true",
-    "name": "Cactus Grown",
-    "rarity": "common"
+    "name": "Cactus",
+    "rarity": "Mythical"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Carrot%20Grown.png?raw=true",
-    "name": "Carrot Grown",
-    "rarity": "common"
+    "name": "Carrot",
+    "rarity": "Common"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Coconut%20Grown.png?raw=true",
-    "name": "Coconut Grown",
-    "rarity": "common"
+    "name": "Coconut",
+    "rarity": "Mythical"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Corn%20Grown.png?raw=true",
-    "name": "Corn Grown",
-    "rarity": "common"
+    "name": "Corn",
+    "rarity": "Rare"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Daffodil%20Grown.png?raw=true",
-    "name": "Daffodil Grown",
-    "rarity": "common"
+    "name": "Daffodil",
+    "rarity": "Rare"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Dragonfruit%20Grown.png?raw=true",
-    "name": "Dragonfruit Grown",
-    "rarity": "common"
+    "name": "Dragonfruit",
+    "rarity": "Mythical"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Grape%20Grown.png?raw=true",
-    "name": "Grape Grown",
-    "rarity": "common"
+    "name": "Grape",
+    "rarity": "Divine"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mango%20Grown.png?raw=true",
-    "name": "Mango Grown",
-    "rarity": "common"
+    "name": "Mango",
+    "rarity": "Mythical"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mushroom%20Grown.png?raw=true",
-    "name": "Mushroom Grown",
-    "rarity": "common"
+    "name": "Mushroom",
+    "rarity": "Divine"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Orange%20Tulip%20Grown.png?raw=true",
-    "name": "Orange Tulip Grown",
-    "rarity": "common"
+    "name": "Orange Tulip",
+    "rarity": "Uncommon"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Pepper%20Grown.png?raw=true",
-    "name": "Pepper Grown",
-    "rarity": "common"
+    "name": "Pepper",
+    "rarity": "Divine"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Pumpkin%20Grown.png?raw=true",
-    "name": "Pumpkin Grown",
-    "rarity": "common"
+    "name": "Pumpkin",
+    "rarity": "Legendary"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Strawberry%20Grown.png?raw=true",
-    "name": "Strawberry Grown",
-    "rarity": "common"
+    "name": "Strawberry",
+    "rarity": "Common"
+  }
+  {
+    "image_url": "https://github.com/Wafflehousedev/TradingHub/blob/main/images/Tomato%20Seed.png?raw=true",
+    "name": "Tomato",
+    "rarity": "Rare"
+  }
+  {
+    "image_url": "https://github.com/Wafflehousedev/TradingHub/blob/main/images/Watermelon%20Grown.png?raw=true",
+    "name": "Watermelon",
+    "rarity": "Legendary"
   }
 ]
