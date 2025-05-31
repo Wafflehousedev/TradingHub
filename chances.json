@@ -9,7 +9,7 @@
         {
           "name": "Dog",
           "rarity": "Common",
-          "chance": "33.33%%",
+          "chance": "33.33%",
           "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Dog%20Pet.png"
         },
         {
@@ -23,6 +23,162 @@
           "rarity": "Common",
           "chance": "33.33%",
           "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Bunny%20Pet.png"
+        }
+      ]
+    },
+    {
+      "name": "Uncommon Egg",
+      "category": "Eggs",
+      "shop_chance": "54%",
+      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Uncommon%20Egg.png",
+      "pet_chances": [
+        {
+          "name": "Black Bunny",
+          "rarity": "Common",
+          "chance": "25%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet B1",
+          "rarity": "Uncommon",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet C1",
+          "rarity": "Rare",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        }
+      ]
+    },
+    {
+      "name": "Rare Egg",
+      "category": "Eggs",
+      "shop_chance": "24%",
+      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Rare%20Egg.png",
+      "pet_chances": [
+        {
+          "name": "Placeholder Pet A2",
+          "rarity": "Common",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet B2",
+          "rarity": "Uncommon",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet C2",
+          "rarity": "Rare",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        }
+      ]
+    },
+    {
+      "name": "Legendary Egg",
+      "category": "Eggs",
+      "shop_chance": "12%",
+      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Legendary%20Egg.png",
+      "pet_chances": [
+        {
+          "name": "Placeholder Pet A3",
+          "rarity": "Uncommon",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet B3",
+          "rarity": "Rare",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet C3",
+          "rarity": "Epic",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        }
+      ]
+    },
+    {
+      "name": "Mythical Egg",
+      "category": "Eggs",
+      "shop_chance": "7%",
+      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mythical%20Egg.png",
+      "pet_chances": [
+        {
+          "name": "Placeholder Pet A4",
+          "rarity": "Rare",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet B4",
+          "rarity": "Epic",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet C4",
+          "rarity": "Legendary",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        }
+      ]
+    },
+    {
+      "name": "Bug Egg",
+      "category": "Eggs",
+      "shop_chance": "3%",
+      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Bug%20Egg.png",
+      "pet_chances": [
+        {
+          "name": "Placeholder Pet A5",
+          "rarity": "Rare",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet B5",
+          "rarity": "Legendary",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet C5",
+          "rarity": "Mythical",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        }
+      ]
+    },
+    {
+      "name": "Night Egg",
+      "category": "Eggs",
+      "shop_chance": "N/A",
+      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Night%20Egg.png",
+      "pet_chances": [
+        {
+          "name": "Placeholder Pet A6",
+          "rarity": "Epic",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet B6",
+          "rarity": "Legendary",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
+        },
+        {
+          "name": "Placeholder Pet C6",
+          "rarity": "Secret",
+          "chance": "33.33%",
+          "image_url": "https://via.placeholder.com/100"
         }
       ]
     }
