@@ -1,96 +1,28 @@
 {
   "eggs": [
     {
-      "name": "Night Egg",
-      "category": "egg",
-      "shop_chance": "12%",
-      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Night%20Egg.png",
+      "name": "Common Egg",
+      "category": "Eggs",
+      "shop_chance": "99%",
+      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Common%20Egg.png",
       "pet_chances": [
         {
-          "name": "Hedgehog",
-          "rarity": "Rare",
-          "chance": "40%",
-          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Hedgehog%20Pet.png"
+          "name": "Dog",
+          "rarity": "Common",
+          "chance": "33.33%%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Dog%20Pet.png"
         },
         {
-          "name": "Mole",
-          "rarity": "Legendary",
-          "chance": "15%",
-          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mole%20Pet.png"
+          "name": "Golden Lab",
+          "rarity": "Common",
+          "chance": "33.33%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Golden%20Lab%20Pet.png"
         },
         {
-          "name": "Echo Frog",
-          "rarity": "Mythical",
-          "chance": "5%",
-          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Echo%20Frog%20Pet.png"
-        }
-      ]
-    }
-  ],
-  "sprinklers": [
-    {
-      "name": "Basic Sprinkler",
-      "category": "sprinkler",
-      "shop_chance": "100%",
-      "rarity": "Common",
-      "image_url": "https://example.com/basic_sprinkler.png"
-    },
-    {
-      "name": "Advanced Sprinkler",
-      "category": "sprinkler",
-      "shop_chance": "30%",
-      "rarity": "Rare",
-      "image_url": "https://example.com/advanced_sprinkler.png"
-    },
-    {
-      "name": "Lunar Sprinkler",
-      "category": "sprinkler",
-      "shop_chance": "10%",
-      "rarity": "Mythical",
-      "image_url": "https://example.com/lunar_sprinkler.png"
-    }
-  ],
-  "event_eggs": [
-    {
-      "name": "Lunar Glow Pack",
-      "category": "egg",
-      "shop_chance": "8%",
-      "pet_chances": [
-        {
-          "name": "Glowshroom",
-          "rarity": "Rare",
-          "chance": "25%",
-          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Glowshroom.png"
-        },
-        {
-          "name": "Mint",
-          "rarity": "Rare",
-          "chance": "25%",
-          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mint.png"
-        },
-        {
-          "name": "Moonflower",
-          "rarity": "Legendary",
-          "chance": "15%",
-          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moonflower.png"
-        },
-        {
-          "name": "Starfruit",
-          "rarity": "Legendary",
-          "chance": "15%",
-          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Starfruit.png"
-        },
-        {
-          "name": "Moonglow",
-          "rarity": "Mythical",
-          "chance": "10%",
-          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moonglow.png"
-        },
-        {
-          "name": "Moon Blossom",
-          "rarity": "Divine",
-          "chance": "10%",
-          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moon%20Blossom.png"
+          "name": "Bunny",
+          "rarity": "Common",
+          "chance": "33.33%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Bunny%20Pet.png"
         }
       ]
     }
