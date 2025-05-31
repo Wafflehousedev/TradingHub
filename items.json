@@ -328,5 +328,35 @@
     "name": "Dog",
     "rarity": "Common",
     "info": "Can be obtained in a common egg"
+  },
+  {
+    "image_url": "https://github.com/Wafflehousedev/TradingHub/blob/main/images/Snail%20Pet.png?raw=true",
+    "name": "Snail",
+    "rarity": "Mythical",
+    "info": "Can be obtained in a bug egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Giant%20Ant%20Pet.png",
+    "name": "Giant Ant",
+    "rarity": "Mythical",
+    "info": "Can be obtained in a bug egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Caterpillar%20Pet.png",
+    "name": "Caterpillar",
+    "rarity": "Mythical",
+    "info": "Can be obtained in a bug egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Praying%20Mantis%20Pet.png",
+    "name": "Praying Mantis",
+    "rarity": "Mythical",
+    "info": "Can be obtained in a bug egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/DragonFly%20Pet.png",
+    "name": "Dragonfly",
+    "rarity": "Divine",
+    "info": "Can be obtained in a bug egg"
   }
 ]
