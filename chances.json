@@ -34,21 +34,27 @@
       "pet_chances": [
         {
           "name": "Black Bunny",
-          "rarity": "Common",
-          "chance": "25%",
-          "image_url": "https://via.placeholder.com/100"
-        },
-        {
-          "name": "Placeholder Pet B1",
           "rarity": "Uncommon",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "chance": "25%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Black%20Bunny%20Pet.png"
         },
         {
-          "name": "Placeholder Pet C1",
-          "rarity": "Rare",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "name": "Chicken",
+          "rarity": "Uncommon",
+          "chance": "25%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Chicken%20Pet.png"
+        },
+        {
+          "name": "Cat",
+          "rarity": "Uncommon",
+          "chance": "25%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Cat%20Pet.png"
+        },
+        {
+          "name": "Deer",
+          "rarity": "Uncommon",
+          "chance": "25%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Deer%20Pet.png"
         }
       ]
     },
@@ -59,22 +65,34 @@
       "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Rare%20Egg.png",
       "pet_chances": [
         {
-          "name": "Placeholder Pet A2",
-          "rarity": "Common",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
-        },
-        {
-          "name": "Placeholder Pet B2",
-          "rarity": "Uncommon",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
-        },
-        {
-          "name": "Placeholder Pet C2",
+          "name": "Orange Tabby",
           "rarity": "Rare",
           "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Orange%20Tabby%20Pet.png"
+        },
+        {
+          "name": "Spotted Deer",
+          "rarity": "Rare",
+          "chance": "25%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Spotted%20Deer%20Pet.png"
+        },
+        {
+          "name": "Pig",
+          "rarity": "Uncommon",
+          "chance": "16.67%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Pig%20Pet.png"
+        },
+        {
+          "name": "Rooster",
+          "rarity": "Rare",
+          "chance": "10%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Rooster%20Pet.png"
+        },
+        {
+          "name": "Monkey",
+          "rarity": "Rare",
+          "chance": "4%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Monkey%20Pet.png"
         }
       ]
     },
@@ -85,22 +103,34 @@
       "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Legendary%20Egg.png",
       "pet_chances": [
         {
-          "name": "Placeholder Pet A3",
-          "rarity": "Uncommon",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "name": "Cow",
+          "rarity": "Legendary",
+          "chance": "42.55%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Cow%20Pet.png"
         },
         {
-          "name": "Placeholder Pet B3",
-          "rarity": "Rare",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "name": "Silver Monkey",
+          "rarity": "Legendary",
+          "chance": "42.55%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Silver%20Monkey%20Pet.png"
         },
         {
-          "name": "Placeholder Pet C3",
-          "rarity": "Epic",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "name": "Sea Otter",
+          "rarity": "Legendary",
+          "chance": "10.64%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Sea%20Otter%20Pet.png"
+        },
+        {
+          "name": "Turtle",
+          "rarity": "Legendary",
+          "chance": "2.13%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Turtle%20Pet.png"
+        },
+        {
+          "name": "Polar Bear",
+          "rarity": "Legendary",
+          "chance": "2.13%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Polar%20Bear%20Pet.png"
         }
       ]
     },
@@ -111,22 +141,34 @@
       "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mythical%20Egg.png",
       "pet_chances": [
         {
-          "name": "Placeholder Pet A4",
-          "rarity": "Rare",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "name": "Grey Mouse",
+          "rarity": "Mythical",
+          "chance": "35.71%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Grey%20Mouse%20Pet.png"
         },
         {
-          "name": "Placeholder Pet B4",
-          "rarity": "Epic",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "name": "Brown Mouse",
+          "rarity": "Mythical",
+          "chance": "26.79%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Brown%20Mouse%20Pet.png"
         },
         {
-          "name": "Placeholder Pet C4",
-          "rarity": "Legendary",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "name": "Squirrel",
+          "rarity": "Mythical",
+          "chance": "26.79%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Squirrel%20Pet.png"
+        },
+        {
+          "name": "Red Giant Ant",
+          "rarity": "Mythical",
+          "chance": "8.93%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Red%20Giant%20Ant%20Pet.png"
+        },
+        {
+          "name": "Red Fox",
+          "rarity": "Mythical",
+          "chance": "1.79%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Red%20Fox%20Pet.png"
         }
       ]
     },
@@ -137,22 +179,34 @@
       "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Bug%20Egg.png",
       "pet_chances": [
         {
-          "name": "Placeholder Pet A5",
-          "rarity": "Rare",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
-        },
-        {
-          "name": "Placeholder Pet B5",
-          "rarity": "Legendary",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
-        },
-        {
-          "name": "Placeholder Pet C5",
+          "name": "Snail",
           "rarity": "Mythical",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "chance": "40%",
+          "image_url": "https://github.com/Wafflehousedev/TradingHub/blob/main/images/Snail%20Pet.png?raw=true"
+        },
+        {
+          "name": "Giant Ant",
+          "rarity": "Mythical",
+          "chance": "30%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Giant%20Ant%20Pet.png"
+        },
+        {
+          "name": "Caterpillar",
+          "rarity": "Mythical",
+          "chance": "25%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Caterpillar%20Pet.png"
+        },
+        {
+          "name": "Praying Mantis",
+          "rarity": "Mythical",
+          "chance": "4%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Praying%20Mantis%20Pet.png"
+        },
+        {
+          "name": "Dragonfly",
+          "rarity": "Divine",
+          "chance": "1%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/DragonFly%20Pet.png"
         }
       ]
     },
@@ -163,22 +217,40 @@
       "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Night%20Egg.png",
       "pet_chances": [
         {
-          "name": "Placeholder Pet A6",
-          "rarity": "Epic",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "name": "Hedgehog",
+          "rarity": "Rare",
+          "chance": "49%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Hedgehog%20Pet.png"
         },
         {
-          "name": "Placeholder Pet B6",
+          "name": "Mole",
           "rarity": "Legendary",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "chance": "22%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mole%20Pet.png"
         },
         {
-          "name": "Placeholder Pet C6",
-          "rarity": "Secret",
-          "chance": "33.33%",
-          "image_url": "https://via.placeholder.com/100"
+          "name": "Frog",
+          "rarity": "Legendary",
+          "chance": "14%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Frog%20Pet.png"
+        },
+        {
+          "name": "Echo Frog",
+          "rarity": "Mythical",
+          "chance": "10%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Echo%20Frog%20Pet.png"
+        },
+        {
+          "name": "Night Owl",
+          "rarity": "Divine",
+          "chance": "4%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Night%20Owl%20Pet.png"
+        },
+        {
+          "name": "Raccoon",
+          "rarity": "Divine",
+          "chance": "1%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Raccoon%20Pet.png"
         }
       ]
     }
