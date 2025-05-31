@@ -196,5 +196,137 @@
     "name": "Raccoon",
     "rarity": "N/A",
     "info": "Could be obtained in a Night Egg at the Lunar Glow event"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Red%20Fox%20Pet.png",
+    "name": "Red Fox",
+    "rarity": "N/A",
+    "info": "Can be obtained in a mythical egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Red%20Giant%20Ant%20Pet.png",
+    "name": "Red Giant Ant",
+    "rarity": "N/A",
+    "info": "Can be obtained in a mythical egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Squirrel%20Pet.png",
+    "name": "Squirrel",
+    "rarity": "N/A",
+    "info": "Can be obtained in a mythical egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Brown%20Mouse%20Pet.png",
+    "name": "Brown Mouse",
+    "rarity": "N/A",
+    "info": "Can be obtained in a mythical egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Grey%20Mouse%20Pet.png",
+    "name": "Grey Mouse",
+    "rarity": "N/A",
+    "info": "Can be obtained in a mythical egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Polar%20Bear%20Pet.png",
+    "name": "Polar Bear",
+    "rarity": "N/A",
+    "info": "Can be obtained in a legendary egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Turtle%20Pet.png",
+    "name": "Turtle",
+    "rarity": "N/A",
+    "info": "Can be obtained in a legendary egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Sea%20Otter%20Pet.png",
+    "name": "Sea Otter",
+    "rarity": "N/A",
+    "info": "Can be obtained in a legendary egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Silver%20Monkey%20Pet.png",
+    "name": "Silver Monkey",
+    "rarity": "N/A",
+    "info": "Can be obtained in a legendary egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Cow%20Pet.png",
+    "name": "Cow",
+    "rarity": "N/A",
+    "info": "Can be obtained in a legendary egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Monkey%20Pet.png",
+    "name": "Monkey",
+    "rarity": "N/A",
+    "info": "Can be obtained in a rare egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Rooster%20Pet.png",
+    "name": "Rooster",
+    "rarity": "N/A",
+    "info": "Can be obtained in a rare egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Pig%20Pet.png",
+    "name": "Pig",
+    "rarity": "N/A",
+    "info": "Can be obtained in a rare egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Spotted%20Deer%20Pet.png",
+    "name": "Spotted Deer",
+    "rarity": "N/A",
+    "info": "Can be obtained in a rare egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Orange%20Tabby%20Pet.png",
+    "name": "Orange Tabby",
+    "rarity": "N/A",
+    "info": "Can be obtained in a rare egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Deer%20Pet.png",
+    "name": "Deer",
+    "rarity": "N/A",
+    "info": "Can be obtained in an uncommon egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Cat%20Pet.png",
+    "name": "Cat",
+    "rarity": "N/A",
+    "info": "Can be obtained in an uncommon egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Chicken%20Pet.png",
+    "name": "Chicken",
+    "rarity": "N/A",
+    "info": "Can be obtained in an uncommon egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Black%20Bunny%20Pet.png",
+    "name": "Black Bunny",
+    "rarity": "N/A",
+    "info": "Can be obtained in an uncommon egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Bunny%20Pet.png",
+    "name": "Bunny",
+    "rarity": "N/A",
+    "info": "Can be obtained in a common egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Golden%20Lab%20Pet.png",
+    "name": "Golden Lab",
+    "rarity": "N/A",
+    "info": "Can be obtained in a common egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Dog%20Pet.png",
+    "name": "Dog",
+    "rarity": "N/A",
+    "info": "Can be obtained in a common egg"
   }
 ]
