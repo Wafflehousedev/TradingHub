@@ -2,166 +2,199 @@
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Apple%20Grown.png?raw=true",
     "name": "Apple",
-    "rarity": "Legendary"
+    "rarity": "Legendary",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Bamboo%20Grown.png?raw=true",
     "name": "Bamboo",
-    "rarity": "Legendary"
+    "rarity": "Legendary",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Beanstalk%20Grown.png?raw=true",
     "name": "Beanstalk",
-    "rarity": "Prismatic"
+    "rarity": "Prismatic",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Blueberry%20Grown.png?raw=true",
     "name": "Blueberry",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon",
+    "info": "Can be obtained at the Seed Shop at any time"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Cacao%20Grown.png?raw=true",
     "name": "Cacao",
-    "rarity": "Divine"
+    "rarity": "Divine",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Cactus%20Grown.png?raw=true",
     "name": "Cactus",
-    "rarity": "Mythical"
+    "rarity": "Mythical",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Carrot%20Grown.png?raw=true",
     "name": "Carrot",
-    "rarity": "Common"
+    "rarity": "Common",
+    "info": "Can be obtained at the Seed Shop at any time"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Coconut%20Grown.png?raw=true",
     "name": "Coconut",
-    "rarity": "Mythical"
+    "rarity": "Mythical",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Corn%20Grown.png?raw=true",
     "name": "Corn",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Daffodil%20Grown.png?raw=true",
     "name": "Daffodil",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Dragonfruit%20Grown.png?raw=true",
     "name": "Dragonfruit",
-    "rarity": "Mythical"
+    "rarity": "Mythical",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Grape%20Grown.png?raw=true",
     "name": "Grape",
-    "rarity": "Divine"
+    "rarity": "Divine", 
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mango%20Grown.png?raw=true",
     "name": "Mango",
-    "rarity": "Mythical"
+    "rarity": "Mythical",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mushroom%20Grown.png?raw=true",
     "name": "Mushroom",
-    "rarity": "Divine"
+    "rarity": "Divine",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Orange%20Tulip%20Grown.png?raw=true",
     "name": "Orange Tulip",
-    "rarity": "Uncommon"
+    "rarity": "Uncommon", 
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Pepper%20Grown.png?raw=true",
     "name": "Pepper",
-    "rarity": "Divine"
+    "rarity": "Divine",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Pumpkin%20Grown.png?raw=true",
     "name": "Pumpkin",
-    "rarity": "Legendary"
+    "rarity": "Legendary",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Strawberry%20Grown.png?raw=true",
     "name": "Strawberry",
-    "rarity": "Common"
+    "rarity": "Common",
+    "info": "Can be obtained at the Seed Shop at any time"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Tomato%20Grown.png",
     "name": "Tomato",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Watermelon%20Grown.png",
     "name": "Watermelon",
-    "rarity": "Legendary"
+    "rarity": "Legendary",
+    "info": "Can be obtained at the Seed Shop when its in stock"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Candy%20Blossom%20Grown.png",
     "name": "Candy Blossom",
-    "rarity": "Divine"
+    "rarity": "Divine",
+    "info": "Could be obtained at the Easter Event shop"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Glowshroom.png",
     "name": "Glowshroom",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "info": "Could be obtained in a Night Seed Pack at the Lunar Glow event"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mint.png",
     "name": "Mint",
-    "rarity": "Rare"
+    "rarity": "Rare",
+    "info": "Could be obtained in a Night Seed Pack at the Lunar Glow event"
   },
    {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moonflower.png",
     "name": "Moonflower",
-    "rarity": "Legendary"
+    "rarity": "Legendary",
+    "info": "Could be obtained in a Night Seed Pack at the Lunar Glow event"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Starfruit.png",
     "name": "Starfruit",
-    "rarity": "Legendary"
+    "rarity": "Legendary",
+    "info": "Could be obtained in a Night Seed Pack at the Lunar Glow event"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moonglow.png",
     "name": "Moonglow",
-    "rarity": "Mythical"
+    "rarity": "Mythical",
+    "info": "Could be obtained in a Night Seed Pack at the Lunar Glow event"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moon%20Blossom.png",
     "name": "Moon Blossom",
-    "rarity": "Divine"
+    "rarity": "Divine",
+    "info": "Could be obtained in a Night Seed Pack at the Lunar Glow event"
   },
    {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Hedgehog%20Pet.png",
     "name": "Hedgehog",
-    "rarity": "N/A"
+    "rarity": "N/A",
+    "info": "Could be obtained in a Night Egg at the Lunar Glow event"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mole%20Pet.png",
     "name": "Mole",
-    "rarity": "N/A"
+    "rarity": "N/A",
+    "info": "Could be obtained in a Night Egg at the Lunar Glow event"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Echo%20Frog%20Pet.png",
     "name": "Echo Frog",
-    "rarity": "N/A"
+    "rarity": "N/A",
+    "info": "Could be obtained in a Night Egg at the Lunar Glow event"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Frog%20Pet.png",
     "name": "Frog",
-    "rarity": "N/A"
+    "rarity": "N/A",
+    "info": "Could be obtained in a Night Egg at the Lunar Glow event"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Night%20Owl%20Pet.png",
     "name": "Night Owl",
-    "rarity": "N/A"
+    "rarity": "N/A",
+    "info": "Could be obtained in a Night Egg at the Lunar Glow event"
   },
   {
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Raccoon%20Pet.png",
     "name": "Raccoon",
-    "rarity": "N/A"
+    "rarity": "N/A",
+    "info": "Could be obtained in a Night Egg at the Lunar Glow event"
   }
 ]
