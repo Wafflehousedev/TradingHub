@@ -133,5 +133,35 @@
     "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moon%20Blossom.png",
     "name": "Moon Blossom",
     "rarity": "Divine"
-  }
+  },
+   {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Hedgehog%20Pet.png",
+    "name": "Hedgehog",
+    "rarity": "N/A"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Mole%20Pet.png",
+    "name": "Mole",
+    "rarity": "N/A"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Echo%20Frog%20Pet.png",
+    "name": "Echo Frog",
+    "rarity": "N/A"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Frog%20Pet.png",
+    "name": "Frog",
+    "rarity": "N/A"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Night%20Owl%20Pet.png",
+    "name": "Night Owl",
+    "rarity": "N/A"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Raccoon%20Pet.png",
+    "name": "Raccoon",
+    "rarity": "N/A"
+  },
 ]
