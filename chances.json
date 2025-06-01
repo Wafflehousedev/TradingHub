@@ -207,7 +207,7 @@
     {
       "name": "Bee Egg",
       "category": "Eggs",
-      "shop_chance": "2%",
+      "shop_chance": "N/A",
       "image_url": "https://github.com/Wafflehousedev/TradingHub/blob/main/images/Bee%20Egg.png?raw=true",
       "pet_chances": [
     {
