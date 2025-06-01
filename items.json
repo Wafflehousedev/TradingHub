@@ -358,5 +358,191 @@
     "name": "Dragonfly",
     "rarity": "Divine",
     "info": "Can be obtained in a bug egg"
+  },
+ {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Queen%20Bee.png",
+    "name": "Queen Bee",
+    "rarity": "Divine",
+    "info": "Can be obtained from a bee egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Petal%20Bee.png",
+    "name": "Petal Bee",
+    "rarity": "Legendary",
+    "info": "Can be obtained from a bee egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Bear%20Bee.png",
+    "name": "Bear Bee",
+    "rarity": "Mythical",
+    "info": "Can be obtained from a bee egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Honey%20Bee.png",
+    "name": "Honey Bee",
+    "rarity": "Rare",
+    "info": "Can be obtained from a bee egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Bee.png",
+    "name": "Bee",
+    "rarity": "Common",
+    "info": "Can be obtained from a bee egg"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Sunflower.png",
+    "name": "Sunflower",
+    "rarity": "Divine",
+    "info": "Can be obtained from a flower seed pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Hive%20Fruit.png",
+    "name": "Hive Fruit",
+    "rarity": "Divine",
+    "info": "Can be obtained from a flower seed pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Nectarine.png",
+    "name": "Nectarine",
+    "rarity": "Mythical",
+    "info": "Can be obtained from a flower seed pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Purple%20Dahlia.png",
+    "name": "Purple Dahlia",
+    "rarity": "Mythical",
+    "info": "Can be obtained from a flower seed pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Pink%20Lilly.png",
+    "name": "Pink Lily",
+    "rarity": "Mythical",
+    "info": "Can be obtained from a flower seed pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Lilac.png",
+    "name": "Lilac",
+    "rarity": "Legendary",
+    "info": "Can be obtained from a flower seed pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Foxglove.png",
+    "name": "Foxglove",
+    "rarity": "Rare",
+    "info": "Can be obtained from a flower seed pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Rose.png",
+    "name": "Rose",
+    "rarity": "Uncommon",
+    "info": "Can be obtained from a flower seed pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Celestiberry.png",
+    "name": "Celestiberry",
+    "rarity": "Mythical",
+    "info": "Could be obtained from Lunar Shop"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moon%20Mango.png",
+    "name": "Moon Mango",
+    "rarity": "Divine",
+    "info": "Could be obtained from Lunar Shop"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Cherry%20Blossom.png",
+    "name": "Cherry Blossom",
+    "rarity": "Divine",
+    "info": "Could be obtained by buying a strawberry seed for 21 robux"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Lotus.png",
+    "name": "Lotus",
+    "rarity": "Divine",
+    "info": "Could be obtained from a Basic/Premium Seed Pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Venus%20Fly%20Trap.png",
+    "name": "Venus Fly Trap",
+    "rarity": "Divine",
+    "info": "Could be obtained from a Basic/Premium Seed Pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Cranberry.png",
+    "name": "Cranberry",
+    "rarity": "Legendary",
+    "info": "Could be obtained from a Basic/Premium Seed Pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Raspberry.png",
+    "name": "Raspberry",
+    "rarity": "Rare",
+    "info": "Could be obtained from a Basic/Premium Seed Pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Papaya.png",
+    "name": "Papaya",
+    "rarity": "Legendary",
+    "info": "Could be obtained from an Exotic Seed Pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Pear.png",
+    "name": "Pear",
+    "rarity": "Rare",
+    "info": "Can be obtained from a Normal Seed Pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Peach.png",
+    "name": "Peach",
+    "rarity": "Mythical",
+    "info": "Can be obtained from a Normal Seed Pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Pineapple.png",
+    "name": "Pineapple",
+    "rarity": "Mythical",
+    "info": "Can be obtained from a Normal Seed Pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Cursed%20Fruit.png",
+    "name": "Cursed Fruit",
+    "rarity": "Divine",
+    "info": "Could be obtained from an Exotic Seed Pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Passion%20Fruit.png",
+    "name": "Passion Fruit",
+    "rarity": "Mythical",
+    "info": "Could be obtained from an Exotic Seed Pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Banana.png",
+    "name": "Banana",
+    "rarity": "Mythical",
+    "info": "Could be obtained from an Exotic Seed Pack"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Easter%20Egg.png",
+    "name": "Easter Egg",
+    "rarity": "Mythical",
+    "info": "Could be obtained in the Easter Event Shop"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Candy%20Sunflower.png",
+    "name": "Candy Sunflower",
+    "rarity": "Rare",
+    "info": "Could be obtained in the Easter Event Shop"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Chocolate%20Carrot.png",
+    "name": "Chocolate Carrot",
+    "rarity": "Common",
+    "info": "Could be obtained in the Easter Event Shop"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Lemon.png",
+    "name": "Lemon",
+    "rarity": "Mythical",
+    "info": "Could be obtained by purchasing a Tomato seed with 79 robux"
   }
 ]
