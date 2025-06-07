@@ -635,5 +635,61 @@
     "rarity": "Mythical",
     "info": "Could be obtained by purchasing a Tomato seed with 79 robux",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moon%20Cat.png",
+    "name": "Moon Cat",
+    "rarity": "Legendary",
+    "info": "Could be obtained at the Lunar SHop in the Lunar Glow event",
+    "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Durian%20Fruit.png",
+    "name": "Durian",
+    "rarity": "Legendary",
+    "info": "Could be obtained in a Basic Seed Pack",
+    "type": "Fruit"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Soul%20Fruit.png",
+    "name": "Soul Fruit",
+    "rarity": "Divine",
+    "info": "Could be obtained in an Exotic Seed Pack",
+    "type": "Fruit"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Basic%20Sprinkler.png",
+    "name": "Basic Sprinkler",
+    "rarity": "Uncommon",
+    "info": "Can be obtained in the gear shop when its in stock",
+    "type": "Sprinkler"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Advanced%20Sprinkler.png",
+    "name": "Advanced Sprinkler",
+    "rarity": "Legendary",
+    "info": "Can be obtained in the gear shop when its in stock",
+    "type": "Sprinkler"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Godly%20Sprinkler.png",
+    "name": "Godly Sprinkler",
+    "rarity": "Mythical",
+    "info": "Can be obtained in the gear shop when its in stock",
+    "type": "Sprinkler"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Master%20Sprinkler.png",
+    "name": "Master Sprinkler",
+    "rarity": "Divine",
+    "info": "Can be obtained in the gear shop when its in stock",
+    "type": "Sprinkler"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Chocolate%20Sprinkler.png",
+    "name": "Chocolate Sprinkler",
+    "rarity": "Mythical",
+    "info": "Could be obtained in the 2025 Easter Event",
+    "type": "Sprinkler"
   }
 ]
