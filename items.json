@@ -691,5 +691,47 @@
     "rarity": "Mythical",
     "info": "Could be obtained in the 2025 Easter Event",
     "type": "Sprinkler"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/disco%20bee.webp",
+    "name": "Disco Bee",
+    "rarity": "Divine",
+    "info": "Can be obtained in an Anti Bee Egg",
+    "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Wasp.png",
+    "name": "Wasp",
+    "rarity": "Rare",
+    "info": "Can be obtained in an Anti Bee Egg",
+    "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Wasp.png",
+    "name": "Wasp",
+    "rarity": "Rare",
+    "info": "Can be obtained in an Anti Bee Egg",
+    "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Butterfly.png",
+    "name": "Butterfly",
+    "rarity": "Mythical",
+    "info": "Can be obtained in an Anti Bee Egg",
+    "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moth.png",
+    "name": "Moth",
+    "rarity": "Legendary",
+    "info": "Can be obtained in an Anti Bee Egg",
+    "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Tarantula%20Hawk.png",
+    "name": "Tarantula Hawk",
+    "rarity": "Legendary",
+    "info": "Can be obtained in an Anti Bee Egg",
+    "type": "Pet"
   }
 ]
