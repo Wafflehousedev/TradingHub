@@ -201,6 +201,12 @@
           "rarity": "Mythical",
           "chance": "5%",
           "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Praying%20Mantis%20Pet.png"
+        },
+        {
+          "name": "Dragonfly",
+          "rarity": "Divine",
+          "chance": "1%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/DragonFly%20Pet.png"
         }
       ]
     },
@@ -283,6 +289,44 @@
           "rarity": "Divine",
           "chance": "1%",
           "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Raccoon%20Pet.png"
+        }
+      ]
+    },
+    {
+      "name": "Anti Bee Egg",
+      "category": "Eggs",
+      "shop_chance": "N/A",
+      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Anti%20Bee%20Egg.png",
+      "pet_chances": [
+        {
+          "name": "Wasp",
+          "rarity": "Rare",
+          "chance": "55%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Wasp.png"
+        },
+        {
+          "name": "Tarantula Hawk",
+          "rarity": "Legendary",
+          "chance": "30%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Tarantula%20Hawk.png"
+        },
+        {
+          "name": "Moth",
+          "rarity": "Legendary",
+          "chance": "13.75%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Moth.png"
+        },
+        {
+          "name": "Butterfly",
+          "rarity": "Mythical",
+          "chance": "1%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Butterfly.png"
+        },
+        {
+          "name": "Disco Bee",
+          "rarity": "Divine",
+          "chance": "0.25%",
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/disco%20bee.webp"
         }
       ]
     }
