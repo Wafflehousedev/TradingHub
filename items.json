@@ -726,5 +726,82 @@
     "rarity": "Legendary",
     "info": "Can be obtained in an Anti Bee Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Kiwi.png",
+    "name": "Kiwi",
+    "rarity": "Rare",
+    "info": "Could be obtained in a Night Egg or in the Lunar Glow quest",
+    "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Owl.png",
+    "name": "Owl",
+    "rarity": "Mythical",
+    "info": "Could be obtained in the Lunar Glow quest",
+    "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Chicken%20Zombie.png",
+    "name": "Chicken Zombie",
+    "rarity": "Mythical",
+    "info": "Could be obtained by playing right before an update",
+    "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Ember%20Lily.png",
+    "name": "Ember Lily",
+    "rarity": "Prismatic",
+    "info": "Can be obtained in the Seed Shop when its in stock",
+    "type": "Fruit"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Nectar%20Shade.png",
+    "name": "Nectar Shade",
+    "rarity": "Rare",
+    "info": "Can be obtained in the Bee Shop",
+    "type": "Fruit"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Lavender.png",
+    "name": "Lavender",
+    "rarity": "Uncommon",
+    "info": "Can be obtained in the Bee Shop",
+    "type": "Fruit"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Blood%20Melon.png",
+    "name": "Moon Melon",
+    "rarity": "Mythical",
+    "info": "Could be obtained in the Lunar Glow night shop",
+    "type": "Fruit"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Blood%20Banana.png",
+    "name": "Blood Banana",
+    "rarity": "Mythical",
+    "info": "Could be obtained in the Lunar Glow night shop",
+    "type": "Fruit"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Blood%20Hedgechog.png",
+    "name": "Blood Hedgehog",
+    "rarity": "Legendary",
+    "info": "Could be obtained in the Lunar Glow blood shop",
+    "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Blood%20Kiwi.png",
+    "name": "Blood Kiwi",
+    "rarity": "Mythical",
+    "info": "Could be obtained in the Lunar Glow blood shop",
+    "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Blood%20Owl%20Pet.png",
+    "name": "Blood Owl",
+    "rarity": "Divine",
+    "info": "Could be obtained in the Lunar Glow blood shop",
+    "type": "Pet"
   }
 ]
