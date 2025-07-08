@@ -810,5 +810,12 @@
     "rarity": "Divine",
     "info": "Can be obtained in the Bee Shop",
     "type": "Sprinkler"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392240880898937013/Burning_Bud_Pic.png?ex=686ed0dc&is=686d7f5c&hm=a89d00d5f7cabe96c75ebe6c3b80ff49c7c297e989b428a84df43b6c7707cec2&",
+    "name": "Burning Bud",
+    "rarity": "Prismatic",
+    "info": "Can be obtained in the Seed Shop when in stock",
+    "type": "Fruit"
   }
 ]
