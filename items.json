@@ -817,5 +817,12 @@
     "rarity": "Prismatic",
     "info": "Can be obtained in the Seed Shop when in stock",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392243325221998634/Sugar_Apple.png?ex=686ed323&is=686d81a3&hm=dd3475effc47b8c09dc54901995ca42d5b37dbac41d22a70daf3afad6d59a2c7&",
+    "name": "Sugar Apple",
+    "rarity": "Prismatic",
+    "info": "Can be obtained in the Seed Shop when in stock",
+    "type": "Fruit"
   }
 ]
