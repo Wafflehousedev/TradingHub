@@ -810,5 +810,12 @@
     "rarity": "Divine",
     "info": "Can be obtained in the Bee Shop",
     "type": "Sprinkler"
+  },
+  {
+    "image_url": "https://example.com/myitem.png",
+    "name": "Glowfruit",
+    "rarity": "Mythic",
+    "info": "Only glows at midnight.",
+    "type": "Fruit"
   }
 ]
