@@ -810,5 +810,12 @@
     "rarity": "Divine",
     "info": "Can be obtained in the Bee Shop",
     "type": "Sprinkler"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/Honey%20Sprinkler.png",
+    "name": "Honey Sprinkler2",
+    "rarity": "Divine",
+    "info": "Can be obtained in the Bee Shop",
+    "type": "Sprinkler"
   }
 ]
