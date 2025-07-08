@@ -367,6 +367,44 @@
           "image_url": "https://image-url-here.com"
         }
       ]
+    },
+    {
+      "name": "Sample Egg",
+      "category": "Eggs",
+      "shop_chance": "N/A",
+      "image_url": "https://image-url-here.com",
+      "pet_chances": [
+        {
+          "name": "Some Pet",
+          "rarity": "Rarity",
+          "chance": "100%",
+          "image_url": "https://image-url-here.com"
+        },
+        {
+          "name": "Some Pet",
+          "rarity": "Rarity",
+          "chance": "100%",
+          "image_url": "https://image-url-here.com"
+        },
+        {
+          "name": "Some Pet",
+          "rarity": "Rarity",
+          "chance": "100%",
+          "image_url": "https://image-url-here.com"
+        },
+        {
+          "name": "Some Pet",
+          "rarity": "Rarity",
+          "chance": "100%",
+          "image_url": "https://image-url-here.com"
+        },
+        {
+          "name": "Some Pet",
+          "rarity": "Rarity",
+          "chance": "100%",
+          "image_url": "https://image-url-here.com"
+        }
+      ]
     }
   ]
 }
