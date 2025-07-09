@@ -852,5 +852,12 @@
     "rarity": "Legendary",
     "info": "Can be obtained in the Dinosaur Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392586623362793492/Brontosaurus.png?ex=687012dc&is=686ec15c&hm=2adce0b6aafcaef6573c133696854e033cf4b7623408c3308f5b81685cb2249c&",
+    "name": "Brontosaurus",
+    "rarity": "Mythical",
+    "info": "Can be obtained in the Dinosaur Egg",
+    "type": "Pet"
   }
 ]
