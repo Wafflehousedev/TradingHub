@@ -329,6 +329,50 @@
           "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/refs/heads/main/images/disco%20bee.webp"
         }
       ]
+    },
+    {
+      "name": "Dinosaur Egg",
+      "category": "Eggs",
+      "shop_chance": "N/A",
+      "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392582735582859275/Dinosaur_Egg.png?ex=68700f3d&is=686ebdbd&hm=1f6a5bbbf231c10162a06aa5a5b19ff6e94920823832e5288d0cc5cfbb98d443&",
+      "pet_chances": [
+        {
+          "name": "Raptor",
+          "rarity": "Legendary",
+          "chance": "35%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392584941635895427/Raptor.png?ex=6870114b&is=686ebfcb&hm=3c53f013265a49b8cf0e086b76ac3cc8cc7f319ff5be0e999859ef146223f4c0&"
+        },
+        {
+          "name": "Triceratops",
+          "rarity": "Legendary",
+          "chance": "32.5%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392585481295892642/Triceratops.png?ex=687011cb&is=686ec04b&hm=af3ee4c3b68577945cc3ac8972515d05b585b35ecd89924bd14b607934ad1f7c&"
+        },
+        {
+          "name": "Stegosaurus",
+          "rarity": "Legendary",
+          "chance": "28%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392585829687492728/Stegosaurus.png?ex=6870121e&is=686ec09e&hm=3c0e5b7b0cf06db1a17493df015feb4212f606c80ef905ba97ed789de8393301&"
+        },
+        {
+          "name": "Pterodactyl",
+          "rarity": "Legendary",
+          "chance": "3%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392586280562593822/Pterodactyl.png?ex=6870128a&is=686ec10a&hm=4cea33fc8f7a52c62cb10e3f1d4f430eafde7c083b082d3575d612f7fe23c3db&"
+        },
+        {
+          "name": "Brontosaurus",
+          "rarity": "Mythical",
+          "chance": "1%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392586623362793492/Brontosaurus.png?ex=687012dc&is=686ec15c&hm=2adce0b6aafcaef6573c133696854e033cf4b7623408c3308f5b81685cb2249c&"
+        },
+        {
+          "name": "T-Rex",
+          "rarity": "Divine",
+          "chance": "0.5%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392587791359152319/T-Rex.png?ex=687013f2&is=686ec272&hm=c3259ae7cd5be385a48f4c2aeb51e496eebead3d769f8ab4e2602d4db5836a47&"
+        }
+      ]
     }
   ]
 }
