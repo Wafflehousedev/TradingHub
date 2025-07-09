@@ -831,5 +831,12 @@
     "rarity": "Legendary",
     "info": "Can be obtained in the Dinosaur Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392585481295892642/Triceratops.png?ex=687011cb&is=686ec04b&hm=af3ee4c3b68577945cc3ac8972515d05b585b35ecd89924bd14b607934ad1f7c&",
+    "name": "Triceratops",
+    "rarity": "Legendary",
+    "info": "Can be obtained in the Dinosaur Egg",
+    "type": "Pet"
   }
 ]
