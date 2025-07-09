@@ -838,5 +838,12 @@
     "rarity": "Legendary",
     "info": "Can be obtained in the Dinosaur Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392585829687492728/Stegosaurus.png?ex=6870121e&is=686ec09e&hm=3c0e5b7b0cf06db1a17493df015feb4212f606c80ef905ba97ed789de8393301&",
+    "name": "Stegosaurus",
+    "rarity": "Legendary",
+    "info": "Can be obtained in the Dinosaur Egg",
+    "type": "Pet"
   }
 ]
