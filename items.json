@@ -859,5 +859,12 @@
     "rarity": "Mythical",
     "info": "Can be obtained in the Dinosaur Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392587791359152319/T-Rex.png?ex=687013f2&is=686ec272&hm=c3259ae7cd5be385a48f4c2aeb51e496eebead3d769f8ab4e2602d4db5836a47&",
+    "name": "T-Rex",
+    "rarity": "Divine",
+    "info": "Can be obtained in the Dinosaur Egg",
+    "type": "Pet"
   }
 ]
