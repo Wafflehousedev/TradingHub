@@ -824,5 +824,12 @@
     "rarity": "Prismatic",
     "info": "Can be obtained in the Seed Shop when in stock",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392584941635895427/Raptor.png?ex=6870114b&is=686ebfcb&hm=3c53f013265a49b8cf0e086b76ac3cc8cc7f319ff5be0e999859ef146223f4c0&",
+    "name": "Raptor",
+    "rarity": "Legendary",
+    "info": "Can be obtained in the Dinosaur Egg",
+    "type": "Pet"
   }
 ]
