@@ -373,6 +373,44 @@
           "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392587791359152319/T-Rex.png?ex=687013f2&is=686ec272&hm=c3259ae7cd5be385a48f4c2aeb51e496eebead3d769f8ab4e2602d4db5836a47&"
         }
       ]
+    },
+    {
+      "name": "Paradise Egg",
+      "category": "Eggs",
+      "shop_chance": "10%",
+      "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592745188819036/PE.png?ex=6870188f&is=686ec70f&hm=f5248d4af6cdd3887bbcb7a9e1fb7821776848c27b1b78e3b6f28bc254bd6046&",
+      "pet_chances": [
+        {
+          "name": "Ostrich",
+          "rarity": "Legendary",
+          "chance": "40%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592765925195776/Ostri.png?ex=68701894&is=686ec714&hm=16819c5c5cc388dcc90395c49068af2eafe3a79913a0a0eead9bedeaf615c898&"
+        },
+        {
+          "name": "Peacock",
+          "rarity": "Legendary",
+          "chance": "30%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592786930532392/PCock.png?ex=68701899&is=686ec719&hm=9f525bfe9594474eb5b7fd64322c30d062b60a0f51756dd9cb040e7aa2564ce2&"
+        },
+        {
+          "name": "Capybara",
+          "rarity": "Legendary",
+          "chance": "21%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592806232588378/Capy.png?ex=6870189e&is=686ec71e&hm=5f99e304d32eb479aa32552a529b0ad885b1b9516826e7ab67c0f369d5b4fb74&"
+        },
+        {
+          "name": "Scarlet Macaw",
+          "rarity": "Legendary",
+          "chance": "8%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592827007111340/SM.png?ex=687018a3&is=686ec723&hm=81156c5df08b257a00cb5a3e6cde49a9a3ba776d70ded18b32fc968b6b147c96&"
+        },
+        {
+          "name": "Mimic Octopus",
+          "rarity": "Mythical",
+          "chance": "1%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592848074965225/MO.png?ex=687018a8&is=686ec728&hm=c63070d97b5ec525b08443313d092d072080dc8efc51d8da992b160eefd75193&"
+        }
+      ]
     }
   ]
 }
