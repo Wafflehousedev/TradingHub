@@ -971,5 +971,12 @@
     "rarity": "Legendary",
     "info": "Could be obtained in the Summer Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392808803548008518/Parasol_Flower.png?ex=6870e1c7&is=686f9047&hm=fd69f93f2130ae7432f7b05fe379f06c318f822f12bb94608ebb48d7efd64767&=&format=webp&quality=lossless&width=389&height=358",
+    "name": "Parasol Flower",
+    "rarity": "Mythical",
+    "info": "Could be obtained in the Summer Seed Pack",
+    "type": "Fruit"
   }
 ]
