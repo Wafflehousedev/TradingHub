@@ -957,5 +957,12 @@
     "rarity": "Uncommon",
     "info": "Could be obtained in the Summer Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392808804000727156/Pear.png?ex=6870e1c8&is=686f9048&hm=8e4e8911789cce610caac102059c690b88c43f42f984adbf46d8597d115e71fb&",
+    "name": "Pear",
+    "rarity": "Rare",
+    "info": "Could be obtained in the Summer Seed Pack",
+    "type": "Fruit"
   }
 ]
