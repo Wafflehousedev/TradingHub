@@ -950,5 +950,12 @@
     "rarity": "Prismatic",
     "info": "Could be obtained in the Summer Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392808804252651681/Wild_Carrot.png?ex=6870e1c8&is=686f9048&hm=3766181c92b026ca4a1fb4242716a2cc3dbd2de34a0e0d40c022c3de64f2259c&",
+    "name": "Wild Carrot",
+    "rarity": "Uncommon",
+    "info": "Could be obtained in the Summer Seed Pack",
+    "type": "Fruit"
   }
 ]
