@@ -901,5 +901,12 @@
     "rarity": "Divine",
     "info": "Can be obtained in the Oasis Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805875751714858/Stone_Bite.png?ex=6870df0d&is=686f8d8d&hm=6c09a94172b4ef4f228c5ffb8b58c1c08e92fc84f120053427452cbb0c5face4&=&format=webp&quality=lossless&width=615&height=639",
+    "name": "Stonebite",
+    "rarity": "Uncommon",
+    "info": "Can be obtained in the Ancient Seed Pack",
+    "type": "Fruit"
   }
 ]
