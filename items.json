@@ -873,5 +873,12 @@
     "rarity": "Legendary",
     "info": "Can be obtained in the Oasis Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748152863461476/SS.png?ex=6870a94b&is=686f57cb&hm=ca0ca9e3795c4afd3c36eaec968f90850ee8c378ed5961bcb56d17555c120365&",
+    "name": "Sand Snake",
+    "rarity": "Legendary",
+    "info": "Can be obtained in the Oasis Egg",
+    "type": "Pet"
   }
 ]
