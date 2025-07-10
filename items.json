@@ -929,5 +929,12 @@
     "rarity": "Legendary",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805874614931528/Firefly_Fern.png?ex=6870df0d&is=686f8d8d&hm=03055aa497bd205e62aba37e53886fc66beab64a26469653bad11c01bc6e4b63&=&format=webp&quality=lossless&width=566&height=1198",
+    "name": "Firefly fern",
+    "rarity": "Mythical",
+    "info": "Can be obtained in the Ancient Seed Pack",
+    "type": "Fruit"
   }
 ]
