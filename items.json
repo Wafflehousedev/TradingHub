@@ -894,5 +894,12 @@
     "rarity": "Mythical",
     "info": "Can be obtained in the Oasis Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748209423781909/FF.png?ex=6870a959&is=686f57d9&hm=f1de2f298c59f83ac3ce20f2d92dbeb539c0e38489041eb13f09e68677b07ff8&",
+    "name": "Fennec Fox",
+    "rarity": "Divine",
+    "info": "Can be obtained in the Oasis Egg",
+    "type": "Pet"
   }
 ]
