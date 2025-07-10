@@ -964,5 +964,12 @@
     "rarity": "Rare",
     "info": "Could be obtained in the Summer Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392808803778433034/Cantaloupe.png?ex=6870e1c7&is=686f9047&hm=d9d8357f136b925bcd19eb950ce2cc134b273d8924eecaba290f359de6148ae0&",
+    "name": "Cantaloupe",
+    "rarity": "Legendary",
+    "info": "Could be obtained in the Summer Seed Pack",
+    "type": "Fruit"
   }
 ]
