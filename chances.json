@@ -411,6 +411,44 @@
           "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592848074965225/MO.png?ex=687018a8&is=686ec728&hm=c63070d97b5ec525b08443313d092d072080dc8efc51d8da992b160eefd75193&"
         }
       ]
+    },
+    {
+      "name": "Oasis Egg",
+      "category": "Eggs",
+      "shop_chance": "N/A",
+      "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748115244744714/Egg.png?ex=6870a942&is=686f57c2&hm=1bb038c88615a697ccb02ff7e94fabaf023793f32f016bf2075ec7cbc32cac76&",
+      "pet_chances": [
+        {
+          "name": "Meerkat",
+          "rarity": "Legendary",
+          "chance": "45%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748131845804072/MC.png?ex=6870a946&is=686f57c6&hm=8fb1ba2b70903b07d22663faf63ae83075d1d9ab1624cabd0deb9c3487a4bba0&"
+        },
+        {
+          "name": "Sand Snake",
+          "rarity": "Legendary",
+          "chance": "34.5%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748152863461476/SS.png?ex=6870a94b&is=686f57cb&hm=ca0ca9e3795c4afd3c36eaec968f90850ee8c378ed5961bcb56d17555c120365&"
+        },
+        {
+          "name": "Axolotl",
+          "rarity": "Mythical",
+          "chance": "15%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748170575872000/AX.png?ex=6870a94f&is=686f57cf&hm=42c35198ea59dcfb6af1c03f3774dc1e6cf15301f31c4a8b54b387e50b27c3f3&"
+        },
+        {
+          "name": "Hyacinth Macaw",
+          "rarity": "Mythical",
+          "chance": "5%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748189903224942/HM.png?ex=6870a954&is=686f57d4&hm=f3eff5b82f73ba799d1bc6961f3a2d7030bd01ebcd827786b3b9b08205010305&"
+        },
+        {
+          "name": "Fennec Fox",
+          "rarity": "Divine",
+          "chance": "0.5%",
+          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748209423781909/FF.png?ex=6870a959&is=686f57d9&hm=f1de2f298c59f83ac3ce20f2d92dbeb539c0e38489041eb13f09e68677b07ff8&"
+        }
+      ]
     }
   ]
 }
