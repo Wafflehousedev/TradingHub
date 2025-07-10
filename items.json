@@ -887,5 +887,12 @@
     "rarity": "Mythical",
     "info": "Can be obtained in the Oasis Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748189903224942/HM.png?ex=6870a954&is=686f57d4&hm=f3eff5b82f73ba799d1bc6961f3a2d7030bd01ebcd827786b3b9b08205010305&",
+    "name": "Hyacinth Macaw",
+    "rarity": "Mythical",
+    "info": "Can be obtained in the Oasis Egg",
+    "type": "Pet"
   }
 ]
