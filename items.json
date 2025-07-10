@@ -936,5 +936,12 @@
     "rarity": "Mythical",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805874321592421/Fossilight.png?ex=6870df0d&is=686f8d8d&hm=32f3f6ac67faff04ebde9f7ac046b673e9d4362f7c759f41ddee1bc680ad993f&=&format=webp&quality=lossless&width=619&height=333",
+    "name": "Fossilight",
+    "rarity": "Divine",
+    "info": "Can be obtained in the Ancient Seed Pack",
+    "type": "Fruit"
   }
 ]
