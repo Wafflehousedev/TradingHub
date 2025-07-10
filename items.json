@@ -922,5 +922,12 @@
     "rarity": "Legendary",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805874933825546/Boneboo.png?ex=6870df0d&is=686f8d8d&hm=090813d11f8b7496dd9911bd07b23649149873bc5dc36abcb933a911f15040d3&=&format=webp&quality=lossless&width=615&height=637",
+    "name": "Boneboo",
+    "rarity": "Legendary",
+    "info": "Can be obtained in the Ancient Seed Pack",
+    "type": "Fruit"
   }
 ]
