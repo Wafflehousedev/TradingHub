@@ -915,5 +915,12 @@
     "rarity": "Rare",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805875202392094/Horned_Dinoshroom.png?ex=6870df0d&is=686f8d8d&hm=c69d67c3fedc0fdd7841271b92728a40c96524915d59005d4c763151703f2e0e&=&format=webp&quality=lossless&width=604&height=739",
+    "name": "Horned Dinoshroom",
+    "rarity": "Legendary",
+    "info": "Can be obtained in the Ancient Seed Pack",
+    "type": "Fruit"
   }
 ]
