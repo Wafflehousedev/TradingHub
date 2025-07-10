@@ -943,5 +943,12 @@
     "rarity": "Divine",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392808804466299013/Elephant_Ears.png?ex=6870e1c8&is=686f9048&hm=c072ee9c351ac4f1cde05797139ccbbbc8913b4108b5ec6a3629c44395dc4a4b&",
+    "name": "Elephant Ears",
+    "rarity": "Divine",
+    "info": "Could be obtained in the Summer Seed Pack",
+    "type": "Fruit"
   }
 ]
