@@ -908,5 +908,12 @@
     "rarity": "Uncommon",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805875466371112/Paradise_Petal.png?ex=6870df0d&is=686f8d8d&hm=ce46305dd99b0ae6744037a2c1278f12d9483642447431989881f1743d96e070&=&format=webp&quality=lossless&width=639&height=625",
+    "name": "Paradise Petal",
+    "rarity": "Rare",
+    "info": "Can be obtained in the Ancient Seed Pack",
+    "type": "Fruit"
   }
 ]
