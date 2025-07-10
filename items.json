@@ -880,5 +880,12 @@
     "rarity": "Legendary",
     "info": "Can be obtained in the Oasis Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748170575872000/AX.png?ex=6870a94f&is=686f57cf&hm=42c35198ea59dcfb6af1c03f3774dc1e6cf15301f31c4a8b54b387e50b27c3f3&",
+    "name": "Axolotl",
+    "rarity": "Mythical",
+    "info": "Can be obtained in the Oasis Egg",
+    "type": "Pet"
   }
 ]
