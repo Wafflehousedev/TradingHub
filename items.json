@@ -866,5 +866,12 @@
     "rarity": "Divine",
     "info": "Can be obtained in the Dinosaur Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748131845804072/MC.png?ex=6870a946&is=686f57c6&hm=8fb1ba2b70903b07d22663faf63ae83075d1d9ab1624cabd0deb9c3487a4bba0&",
+    "name": "Meerkat",
+    "rarity": "Legendary",
+    "info": "Can be obtained in the Oasis Egg",
+    "type": "Pet"
   }
 ]
