@@ -978,5 +978,12 @@
     "rarity": "Mythical",
     "info": "Could be obtained in the Summer Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392808803228975134/Rosy_Delight.png?ex=6870e1c7&is=686f9047&hm=870a371c7cf74cdf1c8025119b5e0962e724735e313ab4208fdda1dbda33d2e9&=&format=webp&quality=lossless&width=401&height=327",
+    "name": "Rosy Delight",
+    "rarity": "Divine",
+    "info": "Could be obtained in the Summer Seed Pack",
+    "type": "Fruit"
   }
 ]
