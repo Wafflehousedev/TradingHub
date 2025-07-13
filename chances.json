@@ -334,43 +334,43 @@
       "name": "Dinosaur Egg",
       "category": "Eggs",
       "shop_chance": "N/A",
-      "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392582735582859275/Dinosaur_Egg.png?ex=68700f3d&is=686ebdbd&hm=1f6a5bbbf231c10162a06aa5a5b19ff6e94920823832e5288d0cc5cfbb98d443&",
+      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Dinosaur%20Egg.png",
       "pet_chances": [
         {
           "name": "Raptor",
           "rarity": "Legendary",
           "chance": "35%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392584941635895427/Raptor.png?ex=6870114b&is=686ebfcb&hm=3c53f013265a49b8cf0e086b76ac3cc8cc7f319ff5be0e999859ef146223f4c0&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Raptor.png"
         },
         {
           "name": "Triceratops",
           "rarity": "Legendary",
           "chance": "32.5%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392585481295892642/Triceratops.png?ex=687011cb&is=686ec04b&hm=af3ee4c3b68577945cc3ac8972515d05b585b35ecd89924bd14b607934ad1f7c&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Triceratops.png"
         },
         {
           "name": "Stegosaurus",
           "rarity": "Legendary",
           "chance": "28%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392585829687492728/Stegosaurus.png?ex=6870121e&is=686ec09e&hm=3c0e5b7b0cf06db1a17493df015feb4212f606c80ef905ba97ed789de8393301&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Stegosaurus.png"
         },
         {
           "name": "Pterodactyl",
           "rarity": "Legendary",
           "chance": "3%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392586280562593822/Pterodactyl.png?ex=6870128a&is=686ec10a&hm=4cea33fc8f7a52c62cb10e3f1d4f430eafde7c083b082d3575d612f7fe23c3db&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Pterodactyl.png"
         },
         {
           "name": "Brontosaurus",
           "rarity": "Mythical",
           "chance": "1%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392586623362793492/Brontosaurus.png?ex=687012dc&is=686ec15c&hm=2adce0b6aafcaef6573c133696854e033cf4b7623408c3308f5b81685cb2249c&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Brontosaurus.png"
         },
         {
           "name": "T-Rex",
           "rarity": "Divine",
           "chance": "0.5%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392587791359152319/T-Rex.png?ex=687013f2&is=686ec272&hm=c3259ae7cd5be385a48f4c2aeb51e496eebead3d769f8ab4e2602d4db5836a47&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/T-Rex.png"
         }
       ]
     },
@@ -378,37 +378,37 @@
       "name": "Paradise Egg",
       "category": "Eggs",
       "shop_chance": "10%",
-      "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392595001933824141/PE_2.0.png?ex=68701aa9&is=686ec929&hm=471a921735f44a80cd87c344126a3edbd3580a03c619a5062aef58c63fcb709e&",
+      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Paradise%20Egg.png",
       "pet_chances": [
         {
           "name": "Ostrich",
           "rarity": "Legendary",
           "chance": "40%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592765925195776/Ostri.png?ex=68701894&is=686ec714&hm=16819c5c5cc388dcc90395c49068af2eafe3a79913a0a0eead9bedeaf615c898&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Ostritch.png"
         },
         {
           "name": "Peacock",
           "rarity": "Legendary",
           "chance": "30%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592786930532392/PCock.png?ex=68701899&is=686ec719&hm=9f525bfe9594474eb5b7fd64322c30d062b60a0f51756dd9cb040e7aa2564ce2&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Peacock.png"
         },
         {
           "name": "Capybara",
           "rarity": "Legendary",
           "chance": "21%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592806232588378/Capy.png?ex=6870189e&is=686ec71e&hm=5f99e304d32eb479aa32552a529b0ad885b1b9516826e7ab67c0f369d5b4fb74&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Capybara.png"
         },
         {
           "name": "Scarlet Macaw",
           "rarity": "Legendary",
           "chance": "8%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592827007111340/SM.png?ex=687018a3&is=686ec723&hm=81156c5df08b257a00cb5a3e6cde49a9a3ba776d70ded18b32fc968b6b147c96&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Scarlet%20Macaw.png"
         },
         {
           "name": "Mimic Octopus",
           "rarity": "Mythical",
           "chance": "1%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392592848074965225/MO.png?ex=687018a8&is=686ec728&hm=c63070d97b5ec525b08443313d092d072080dc8efc51d8da992b160eefd75193&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Mimic%20Octopus.png"
         }
       ]
     },
@@ -416,37 +416,37 @@
       "name": "Oasis Egg",
       "category": "Eggs",
       "shop_chance": "N/A",
-      "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748115244744714/Egg.png?ex=6870a942&is=686f57c2&hm=1bb038c88615a697ccb02ff7e94fabaf023793f32f016bf2075ec7cbc32cac76&",
+      "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Oasis%20Egg.png",
       "pet_chances": [
         {
           "name": "Meerkat",
           "rarity": "Legendary",
           "chance": "45%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748131845804072/MC.png?ex=6870a946&is=686f57c6&hm=8fb1ba2b70903b07d22663faf63ae83075d1d9ab1624cabd0deb9c3487a4bba0&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Meerkat.png"
         },
         {
           "name": "Sand Snake",
           "rarity": "Legendary",
           "chance": "34.5%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748152863461476/SS.png?ex=6870a94b&is=686f57cb&hm=ca0ca9e3795c4afd3c36eaec968f90850ee8c378ed5961bcb56d17555c120365&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Sand%20Snake.png"
         },
         {
           "name": "Axolotl",
           "rarity": "Mythical",
           "chance": "15%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748170575872000/AX.png?ex=6870a94f&is=686f57cf&hm=42c35198ea59dcfb6af1c03f3774dc1e6cf15301f31c4a8b54b387e50b27c3f3&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Axolotl.png"
         },
         {
           "name": "Hyacinth Macaw",
           "rarity": "Mythical",
           "chance": "5%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748189903224942/HM.png?ex=6870a954&is=686f57d4&hm=f3eff5b82f73ba799d1bc6961f3a2d7030bd01ebcd827786b3b9b08205010305&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Hyacinth%20Macaw.png"
         },
         {
           "name": "Fennec Fox",
           "rarity": "Divine",
           "chance": "0.5%",
-          "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748209423781909/FF.png?ex=6870a959&is=686f57d9&hm=f1de2f298c59f83ac3ce20f2d92dbeb539c0e38489041eb13f09e68677b07ff8&"
+          "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Fennec%20Fox.png"
         }
       ]
     }
