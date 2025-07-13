@@ -812,168 +812,168 @@
     "type": "Sprinkler"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392240880898937013/Burning_Bud_Pic.png?ex=686ed0dc&is=686d7f5c&hm=a89d00d5f7cabe96c75ebe6c3b80ff49c7c297e989b428a84df43b6c7707cec2&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Burning%20Bud.png",
     "name": "Burning Bud",
     "rarity": "Prismatic",
     "info": "Can be obtained in the Seed Shop when in stock",
     "type": "Fruit"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392243325221998634/Sugar_Apple.png?ex=686ed323&is=686d81a3&hm=dd3475effc47b8c09dc54901995ca42d5b37dbac41d22a70daf3afad6d59a2c7&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Sugar%20Apple.png",
     "name": "Sugar Apple",
     "rarity": "Prismatic",
     "info": "Can be obtained in the Seed Shop when in stock",
     "type": "Fruit"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392584941635895427/Raptor.png?ex=6870114b&is=686ebfcb&hm=3c53f013265a49b8cf0e086b76ac3cc8cc7f319ff5be0e999859ef146223f4c0&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Raptor.png",
     "name": "Raptor",
     "rarity": "Legendary",
     "info": "Can be obtained in the Dinosaur Egg",
     "type": "Pet"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392585481295892642/Triceratops.png?ex=687011cb&is=686ec04b&hm=af3ee4c3b68577945cc3ac8972515d05b585b35ecd89924bd14b607934ad1f7c&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Triceratops.png",
     "name": "Triceratops",
     "rarity": "Legendary",
     "info": "Can be obtained in the Dinosaur Egg",
     "type": "Pet"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392585829687492728/Stegosaurus.png?ex=6870121e&is=686ec09e&hm=3c0e5b7b0cf06db1a17493df015feb4212f606c80ef905ba97ed789de8393301&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Stegosaurus.png",
     "name": "Stegosaurus",
     "rarity": "Legendary",
     "info": "Can be obtained in the Dinosaur Egg",
     "type": "Pet"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392586280562593822/Pterodactyl.png?ex=6870128a&is=686ec10a&hm=4cea33fc8f7a52c62cb10e3f1d4f430eafde7c083b082d3575d612f7fe23c3db&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Pterodactyl.png",
     "name": "Pterodactyl",
     "rarity": "Legendary",
     "info": "Can be obtained in the Dinosaur Egg",
     "type": "Pet"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392586623362793492/Brontosaurus.png?ex=687012dc&is=686ec15c&hm=2adce0b6aafcaef6573c133696854e033cf4b7623408c3308f5b81685cb2249c&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Brontosaurus.png",
     "name": "Brontosaurus",
     "rarity": "Mythical",
     "info": "Can be obtained in the Dinosaur Egg",
     "type": "Pet"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392587791359152319/T-Rex.png?ex=687013f2&is=686ec272&hm=c3259ae7cd5be385a48f4c2aeb51e496eebead3d769f8ab4e2602d4db5836a47&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/T-Rex.png",
     "name": "T-Rex",
     "rarity": "Divine",
     "info": "Can be obtained in the Dinosaur Egg",
     "type": "Pet"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748131845804072/MC.png?ex=6870a946&is=686f57c6&hm=8fb1ba2b70903b07d22663faf63ae83075d1d9ab1624cabd0deb9c3487a4bba0&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Meerkat.png",
     "name": "Meerkat",
     "rarity": "Legendary",
     "info": "Can be obtained in the Oasis Egg",
     "type": "Pet"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748152863461476/SS.png?ex=6870a94b&is=686f57cb&hm=ca0ca9e3795c4afd3c36eaec968f90850ee8c378ed5961bcb56d17555c120365&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Sand%20Snake.png",
     "name": "Sand Snake",
     "rarity": "Legendary",
     "info": "Can be obtained in the Oasis Egg",
     "type": "Pet"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748170575872000/AX.png?ex=6870a94f&is=686f57cf&hm=42c35198ea59dcfb6af1c03f3774dc1e6cf15301f31c4a8b54b387e50b27c3f3&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Axolotl.png",
     "name": "Axolotl",
     "rarity": "Mythical",
     "info": "Can be obtained in the Oasis Egg",
     "type": "Pet"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748189903224942/HM.png?ex=6870a954&is=686f57d4&hm=f3eff5b82f73ba799d1bc6961f3a2d7030bd01ebcd827786b3b9b08205010305&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Hyacinth%20Macaw.png",
     "name": "Hyacinth Macaw",
     "rarity": "Mythical",
     "info": "Can be obtained in the Oasis Egg",
     "type": "Pet"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392748209423781909/FF.png?ex=6870a959&is=686f57d9&hm=f1de2f298c59f83ac3ce20f2d92dbeb539c0e38489041eb13f09e68677b07ff8&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Fennec%20Fox.png",
     "name": "Fennec Fox",
     "rarity": "Divine",
     "info": "Can be obtained in the Oasis Egg",
     "type": "Pet"
   },
   {
-    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805875751714858/Stone_Bite.png?ex=6870df0d&is=686f8d8d&hm=6c09a94172b4ef4f228c5ffb8b58c1c08e92fc84f120053427452cbb0c5face4&=&format=webp&quality=lossless&width=615&height=639",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Stone%20Bite.png",
     "name": "Stonebite",
     "rarity": "Uncommon",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
   },
   {
-    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805875466371112/Paradise_Petal.png?ex=6870df0d&is=686f8d8d&hm=ce46305dd99b0ae6744037a2c1278f12d9483642447431989881f1743d96e070&=&format=webp&quality=lossless&width=639&height=625",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Paradise%20Petal.png",
     "name": "Paradise Petal",
     "rarity": "Rare",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
   },
   {
-    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805875202392094/Horned_Dinoshroom.png?ex=6870df0d&is=686f8d8d&hm=c69d67c3fedc0fdd7841271b92728a40c96524915d59005d4c763151703f2e0e&=&format=webp&quality=lossless&width=604&height=739",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Horned%20Dinoshroom.png",
     "name": "Horned Dinoshroom",
     "rarity": "Legendary",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
   },
   {
-    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805874933825546/Boneboo.png?ex=6870df0d&is=686f8d8d&hm=090813d11f8b7496dd9911bd07b23649149873bc5dc36abcb933a911f15040d3&=&format=webp&quality=lossless&width=615&height=637",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Boneboo.png",
     "name": "Boneboo",
     "rarity": "Legendary",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
   },
   {
-    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805874614931528/Firefly_Fern.png?ex=6870df0d&is=686f8d8d&hm=03055aa497bd205e62aba37e53886fc66beab64a26469653bad11c01bc6e4b63&=&format=webp&quality=lossless&width=566&height=1198",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Firefly%20Fern.png",
     "name": "Firefly fern",
     "rarity": "Mythical",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
   },
   {
-    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392805874321592421/Fossilight.png?ex=6870df0d&is=686f8d8d&hm=32f3f6ac67faff04ebde9f7ac046b673e9d4362f7c759f41ddee1bc680ad993f&=&format=webp&quality=lossless&width=619&height=333",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Fossilight.png",
     "name": "Fossilight",
     "rarity": "Divine",
     "info": "Can be obtained in the Ancient Seed Pack",
     "type": "Fruit"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392808804466299013/Elephant_Ears.png?ex=6870e1c8&is=686f9048&hm=c072ee9c351ac4f1cde05797139ccbbbc8913b4108b5ec6a3629c44395dc4a4b&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Elephant%20Ear.png",
     "name": "Elephant Ears",
     "rarity": "Prismatic",
     "info": "Could be obtained in the Summer Seed Pack",
     "type": "Fruit"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392808804252651681/Wild_Carrot.png?ex=6870e1c8&is=686f9048&hm=3766181c92b026ca4a1fb4242716a2cc3dbd2de34a0e0d40c022c3de64f2259c&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Wild%20Carrot.png",
     "name": "Wild Carrot",
     "rarity": "Uncommon",
     "info": "Could be obtained in the Summer Seed Pack",
     "type": "Fruit"
   },
   {
-    "image_url": "https://cdn.discordapp.com/attachments/1392240416992133181/1392808803778433034/Cantaloupe.png?ex=6870e1c7&is=686f9047&hm=d9d8357f136b925bcd19eb950ce2cc134b273d8924eecaba290f359de6148ae0&",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Cantaloupe.png",
     "name": "Cantaloupe",
     "rarity": "Legendary",
     "info": "Could be obtained in the Summer Seed Pack",
     "type": "Fruit"
   },
   {
-    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392808803548008518/Parasol_Flower.png?ex=6870e1c7&is=686f9047&hm=fd69f93f2130ae7432f7b05fe379f06c318f822f12bb94608ebb48d7efd64767&=&format=webp&quality=lossless&width=389&height=358",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Parasol%20Flower.png",
     "name": "Parasol Flower",
     "rarity": "Mythical",
     "info": "Could be obtained in the Summer Seed Pack",
     "type": "Fruit"
   },
   {
-    "image_url": "https://media.discordapp.net/attachments/1392240416992133181/1392808803228975134/Rosy_Delight.png?ex=6870e1c7&is=686f9047&hm=870a371c7cf74cdf1c8025119b5e0962e724735e313ab4208fdda1dbda33d2e9&=&format=webp&quality=lossless&width=401&height=327",
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Rosy%20Delight.png",
     "name": "Rosy Delight",
     "rarity": "Divine",
     "info": "Could be obtained in the Summer Seed Pack",
