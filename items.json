@@ -999,5 +999,12 @@
     "rarity": "Legendary",
     "info": "Can be obtained in the Paradise Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Capybara.png",
+    "name": "Capybara",
+    "rarity": "Legendary",
+    "info": "Can be obtained in the Paradise Egg",
+    "type": "Pet"
   }
 ]
