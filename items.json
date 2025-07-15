@@ -1020,5 +1020,12 @@
     "rarity": "Mythical",
     "info": "Can be obtained in the Paradise Egg",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Bald%20Eagle.png",
+    "name": "Bald Eagle",
+    "rarity": "Legendary",
+    "info": "Could be obtained in the 4th of July shop",
+    "type": "Pet"
   }
 ]
