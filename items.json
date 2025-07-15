@@ -978,5 +978,12 @@
     "rarity": "Divine",
     "info": "Could be obtained in the Summer Seed Pack",
     "type": "Fruit"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Panda.png",
+    "name": "Panda",
+    "rarity": "Legendary",
+    "info": "Could be obtained by claiming it within the first hour of the Animal Update",
+    "type": "Pet"
   }
 ]
