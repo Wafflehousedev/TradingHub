@@ -1027,5 +1027,12 @@
     "rarity": "Legendary",
     "info": "Could be obtained in the 4th of July shop",
     "type": "Pet"
+  },
+  {
+    "image_url": "https://raw.githubusercontent.com/Wafflehousedev/TradingHub/main/images/Bone%20Blossom.png",
+    "name": "Bone Blossom",
+    "rarity": "Transcendent",
+    "info": "Can be obtained by doing quests in the Prehistoric Update",
+    "type": "Fruit"
   }
 ]
